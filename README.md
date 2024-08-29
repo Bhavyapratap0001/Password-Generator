@@ -8,9 +8,6 @@ A simple web application that generates random passwords using HTML, CSS, and Ja
 - Include or exclude uppercase letters, lowercase letters, numbers, and special characters.
 - Simple and intuitive user interface.
 
-## Demo:
-Click here: http://127.0.0.1:5500/index.html
-
 ## Usage:
 
 1. Open `index.html` in your web browser.
